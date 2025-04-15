@@ -1,0 +1,13 @@
+.option-one{
+    background-color: black;
+    color: white;
+}
+
+.option-two{
+    background-color: yellow;
+}
+
+.button{
+    font-size: 28px;
+    font-family: helvetica, 'Times New Roman', sans-serif;
+}
